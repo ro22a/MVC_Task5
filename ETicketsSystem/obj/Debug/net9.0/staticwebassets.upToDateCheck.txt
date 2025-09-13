@@ -1,0 +1,221 @@
+wwwroot\assets\admin\demo\chart-area-demo.js
+wwwroot\assets\admin\demo\chart-bar-demo.js
+wwwroot\assets\admin\demo\chart-pie-demo.js
+wwwroot\assets\admin\demo\datatables-demo.js
+wwwroot\assets\admin\img\error-404-monochrome.svg
+wwwroot\css\admin\styles.css
+wwwroot\css\site.css
+wwwroot\css\user\style.css
+wwwroot\favicon.ico
+wwwroot\images\013ddcdd-af14-491f-9ebb-b6ad6a332dca - Copy (2) - Copy (2).jpg
+wwwroot\images\013ddcdd-af14-491f-9ebb-b6ad6a332dca - Copy (2) - Copy - Copy.jpg
+wwwroot\images\013ddcdd-af14-491f-9ebb-b6ad6a332dca - Copy - Copy - Copy.jpg
+wwwroot\images\06ac4bdb-c93f-4898-b96c-08c70d52cddd - Copy (2) - Copy (2).jpg
+wwwroot\images\06ac4bdb-c93f-4898-b96c-08c70d52cddd - Copy (2) - Copy - Copy.jpg
+wwwroot\images\06ac4bdb-c93f-4898-b96c-08c70d52cddd - Copy - Copy - Copy - Copy.jpg
+wwwroot\images\1724120d-df5b-4658-a54d-f23b1841137c - Copy - Copy - Copy (2).jpg
+wwwroot\images\1724120d-df5b-4658-a54d-f23b1841137c - Copy - Copy - Copy - Copy.jpg
+wwwroot\images\1b1dc417-343e-49a4-a5ca-5fc049623f64 - Copy (2) - Copy.jpg
+wwwroot\images\1b1dc417-343e-49a4-a5ca-5fc049623f64 - Copy (2).jpg
+wwwroot\images\1f29b219-15e9-44cd-80f6-2612556951eb - Copy - Copy (2).jpg
+wwwroot\images\1f29b219-15e9-44cd-80f6-2612556951eb - Copy - Copy - Copy.jpg
+wwwroot\images\1f29b219-15e9-44cd-80f6-2612556951eb - Copy - Copy.jpg
+wwwroot\images\1f29b219-15e9-44cd-80f6-2612556951eb - Copy.jpg
+wwwroot\images\28da1ea1-d077-461b-946f-bdf1972e6ba6.jpg
+wwwroot\images\39ae2b54-e78e-4a77-a022-7e7e25cd672b.jpg
+wwwroot\images\7129dba1-7566-4d75-a163-918af9a042df.jpg
+wwwroot\images\911044e4-46b9-4058-b749-cb56347a75c8.png
+wwwroot\images\a3658b54-1b9e-4697-adc7-d54273f3b46a.jpg
+wwwroot\images\aab81a6b-6f82-4a4b-b55e-6124a72bb550.jpg
+wwwroot\images\c4020562-4782-4fee-81d1-e24c4e68df1c.jpg
+wwwroot\images\cast\20047290-f277-4d02-b668-d2273f59a0ce.png
+wwwroot\images\cast\402996a3-2ade-462e-b6fe-4ac6fb26d274.png
+wwwroot\images\cast\a70306b4-8423-4750-a234-533ceff384c1.png
+wwwroot\images\cast\cast1.png
+wwwroot\images\cast\cast2.png
+wwwroot\images\cast\cast3.png
+wwwroot\images\cast\cast4.png
+wwwroot\images\cast\cast5.png
+wwwroot\images\cast\cast6.png
+wwwroot\images\cast\da7ad89d-8bdc-4544-a741-b4ec4d42e96f.png
+wwwroot\images\cast\e348d80d-159e-4ccd-b8ae-7d9cada5344a.png
+wwwroot\images\cast\e4cac219-3f42-408a-be3c-6f9d67765219.png
+wwwroot\images\cast\ebf94946-7960-457c-9216-ac2978a43aef.png
+wwwroot\images\da26ac61-da97-455d-a4da-606fc7a888aa.jpg
+wwwroot\images\ddb4adf8-8f50-4335-aa8e-b0d737e06fdb.jpg
+wwwroot\images\e91f3509-8a15-4d36-958e-d8d21bdc031c.png
+wwwroot\images\f8607f58-0b56-43fd-b241-4208784d74f5.jpg
+wwwroot\images\ff08399a-567a-484d-9dbf-6f2e2844fe86.jpg
+wwwroot\images\logo.png
+wwwroot\images\movies\09e5ad88-9dc8-41f4-bf55-18fcbc86f299.jpg
+wwwroot\images\movies\0b29acff-86f9-44eb-8b29-32b9589a4c5b.png
+wwwroot\images\movies\0b54f780-103e-43ed-8de5-0a271fcffe34.jpg
+wwwroot\images\movies\0c5ea64c-7d8b-4afe-9c57-8ab8366486ea.jpg
+wwwroot\images\movies\13da0fb0-114c-49da-aaa1-c6e6ca04ce15.jpg
+wwwroot\images\movies\15d60245-1e2d-4001-a435-c67634339348.jpg
+wwwroot\images\movies\185a0666-b353-4980-8c34-5025c1e018cf.png
+wwwroot\images\movies\1b2b9bb8-6506-49f9-90a8-f7ef011f1720.png
+wwwroot\images\movies\201bd8e5-5173-4a5b-8e7b-67689ca0b9a4.png
+wwwroot\images\movies\32d68bbe-cb29-42b4-8d88-b40e1111f00c.jpg
+wwwroot\images\movies\364674d3-aa6d-4c02-9f4b-ae9ece740995.jpg
+wwwroot\images\movies\43238915-b19d-47fa-adb8-b6a3c7fc444d.png
+wwwroot\images\movies\4408eae7-838e-4434-9fd3-09fc5e5b14fe.jpg
+wwwroot\images\movies\4edcfbea-8dc0-45d1-94f4-add5a71b5ae1.jpg
+wwwroot\images\movies\6097c4af-3271-4e27-8748-ca45305532c2.jpg
+wwwroot\images\movies\6a695030-48e8-48eb-a6e4-052345e93a0c.jpg
+wwwroot\images\movies\75b7f8bf-0b47-4b72-8b5e-39d0129f6e55.jpg
+wwwroot\images\movies\8713be22-feb4-408a-9971-b3ff56dd372b.png
+wwwroot\images\movies\9f00b17e-c6aa-45c7-8b2e-58fa9d35bdf9.jpg
+wwwroot\images\movies\a3658b54-1b9e-4697-adc7-d54273f3b46a.jpg
+wwwroot\images\movies\cc03052f-5d19-4ede-9e07-e196ad04d8d1.jpg
+wwwroot\images\movies\d691b7d8-786d-4548-afd9-1d3060405ffb.jpg
+wwwroot\images\movies\daaf0be4-583f-41cc-81ac-46a02701b4e1.png
+wwwroot\images\movies\df6c7b57-cbab-494f-bf63-588d0d7b73b9.jpg
+wwwroot\images\movies\e718c15c-4ced-4df9-b115-07bd74a97814.jpg
+wwwroot\images\movies\e8e63444-5d7f-4368-9128-e6aa810d8fd5.jpg
+wwwroot\images\movies\e92f58fd-24a3-4c4b-a0a3-f1b60965a5c8.png
+wwwroot\images\movies\movie10.png
+wwwroot\images\movies\movie2.png
+wwwroot\images\movies\movie3.png
+wwwroot\images\movies\movie4.png
+wwwroot\images\movies\movie5.png
+wwwroot\images\movies\movie6.png
+wwwroot\images\movies\movie7.png
+wwwroot\images\movies\movie8.png
+wwwroot\images\movies\movie9.png
+wwwroot\js\admin\datatables-simple-demo.js
+wwwroot\js\admin\scripts.js
+wwwroot\js\site.js
+wwwroot\js\user\script.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\css\site.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\favicon.ico
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\js\site.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\js\admin\datatables-simple-demo.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\js\admin\scripts.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\assets\admin\img\error-404-monochrome.svg
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\assets\admin\demo\datatables-demo.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\assets\admin\demo\chart-pie-demo.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\css\admin\styles.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\css\user\style.css
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\assets\admin\demo\chart-bar-demo.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\assets\admin\demo\chart-area-demo.js
+C:\Users\Abo Raya\source\repos\ETicketsSystem\ETicketsSystem\wwwroot\js\user\script.js
