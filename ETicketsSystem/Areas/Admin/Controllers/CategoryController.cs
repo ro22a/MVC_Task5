@@ -1,5 +1,6 @@
 ﻿
 using ETicketsSystem.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 namespace ETicketsSystem.Areas.Admin.Controllers
 {
 	[Area(SD.AdminArea)]
+	[Authorize(Roles = $"{SD.SuperAdminRole},{SD.AdminRole}")]
 	public class CategoryController : Controller
 	{
 		//ApplicationDbContext _context = new ApplicationDbContext();

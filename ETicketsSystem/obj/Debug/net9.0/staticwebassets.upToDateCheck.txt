@@ -56,6 +56,7 @@ wwwroot\images\movies\15d60245-1e2d-4001-a435-c67634339348.jpg
 wwwroot\images\movies\185a0666-b353-4980-8c34-5025c1e018cf.png
 wwwroot\images\movies\1b2b9bb8-6506-49f9-90a8-f7ef011f1720.png
 wwwroot\images\movies\201bd8e5-5173-4a5b-8e7b-67689ca0b9a4.png
+wwwroot\images\movies\22226f19-2466-4c72-bf35-fb8ef8718d96.png
 wwwroot\images\movies\32d68bbe-cb29-42b4-8d88-b40e1111f00c.jpg
 wwwroot\images\movies\364674d3-aa6d-4c02-9f4b-ae9ece740995.jpg
 wwwroot\images\movies\43238915-b19d-47fa-adb8-b6a3c7fc444d.png
